@@ -45,7 +45,7 @@ $(document).ready(function(){
 				'part': 'snippet',
 				'q': query,
 				'type': '',
-				key: 'AIzaSyD35CDtIMjHJrW9USpTFBRANp22tjCLd1o'
+				key: 'YOUR_API_KEY_HERE'
 			}, 
 			function(data){
 	     	//call the handleData function 
